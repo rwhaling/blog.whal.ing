@@ -80,7 +80,7 @@ flowchart LR;
 	C --> D[Meaning];  
 ```
 
-And I feel pretty comfortable with this diagram.  It explicitly distingusihes text from language, and at the top, we have the abstract "meaning" or semantics of language, which an LLM or embedding model is approximating statistically.
+And I feel pretty comfortable with this diagram.  It explicitly distinguishes text from language, and at the top, we have the abstract "meaning" or semantics of language, which an LLM or embedding model is approximating statistically.
 
 This is a much less sweeping metaphysical claim than we were making before, and it seems consistent with common sense - that there has to be some shared sense of meaning for language to work, and for communication to be possible, and that to the extent that modern LLM's are more compelling than a Markov chain from the 90's, it is precisely because they are "understanding" language in a substantive way.
 
